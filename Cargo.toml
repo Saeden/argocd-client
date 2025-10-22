@@ -1,8 +1,8 @@
 [package]
-name = "openapi"
+name = "argocd-client"
 version = "0.1.0"
 authors = ["OpenAPI Generator team and contributors"]
-description = "Description of all APIs"
+description = "Client for ArgoCD generated from OpenAPI spec"
 # Override this license by providing a License Object in the OpenAPI.
 license = "Unlicense"
 edition = "2021"
